@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Nuestra Empresa"
 date:   2022-10-03 08:37:06 -0300
 categories: noticias
