@@ -19,6 +19,6 @@ Es nuestro objetivo facilitar el acceso a las nuevas herramientas web. Desde mar
 
 # Contacto
 
-* Victoria 573 PB Paraná, Entre Ríos - ARGENTINA
+* Victoria 573 PB Paraná, Entre Ríos - ARGENTINA.
 * info@tau.com.ar
 * Tel: +54 343 5013575
