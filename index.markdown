@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Haga crecer su negocio con nosotros 
 ---
+
+Haga crecer su negocio con nosostros
 
 Obtenga presencia en la web y aproveche cientos de nuevas herramientas.
 Brindamos asesoría informática especializada en infraestructura. 
