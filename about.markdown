@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Contacto
-permalink: /about/
+permalink: /contacto/
 ---
-# Contacto
 
-* Victoria 573 PB Paraná, Entre Ríos
-* info@tau.com.ar
-* Tel: +54 343 5013575
+* Victoria 573 PB Paraná, Entre Ríos - ARGENTINA.
+* [info@tau.com.ar](mailto: info@tau.com.ar)
