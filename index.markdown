@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Haga crecer su negocio con nosotros
+Haga crecer su negocio con nosotros
 
 Obtenga presencia en la web y aproveche cientos de nuevas herramientas.
 Brindamos asesoría informática especializada en infraestructura. 
