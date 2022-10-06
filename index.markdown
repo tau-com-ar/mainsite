@@ -9,11 +9,5 @@ layout: home
 Obtenga presencia en la web y aproveche cientos de nuevas herramientas.
 Brindamos asesoría informática especializada en infraestructura. 
 Desarrollamos sitios para empresas, negocios y personas. También le ofrecemos correo corporativo y más.
-<br>
-<br>
-<br>
 ![stack](assets/img/stack.png){:class="img-responsive"}
-<br>
-<br>
-<br>
 Es nuestro objetivo facilitar el acceso a las nuevas herramientas web. Desde marcar presencia en Internet hasta abrir canales de interacción nuevos con sus clientes. Nuestro personal especializado se encargará de todos los despliegues,aspectos técnicos y mantenimiento. Obtenga en todo momento asistencia y soporte.
