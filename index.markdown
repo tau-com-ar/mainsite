@@ -6,7 +6,7 @@ layout: home
 title: Bienvenido
 ---
 
-## Haga crecer su negocio con nosostros
+## Haga crecer su negocio
 
 Obtenga presencia en la web y aproveche cientos de nuevas herramientas.
 Brindamos asesoría informática especializada en infraestructura. 
