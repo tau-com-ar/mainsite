@@ -54,4 +54,4 @@ También puede utilizar la escalabilidad automática en Kubernetes para ajustar 
 
 Por ejemplo, durante los períodos ajetreados, el estado deseado de la aplicación puede aumentar a diez réplicas, en lugar de las tres habituales.
 
-En Tau contamos con años de experiencia trabajando con Kubernetes y microservicios en general. [Contáctenos](mailto: info@tau.com.ar) para conocer cEómo podemos ayudarlo a aprovechar los numerosos beneficios de esta tecnología.
+En Tau contamos con años de experiencia trabajando con Kubernetes y microservicios en general. [Contáctenos](https://tau.com.ar/contacto/) para conocer cEómo podemos ayudarlo a aprovechar los numerosos beneficios de esta tecnología.

@@ -9,4 +9,4 @@ Somos una empresa radicada en la ciudad de Paraná - Entre Ríos con amplia expe
 * Brindamos asesoría en infraestructura tecnológica
 * Contamos con equipamiento propio de última generación
 
-No dude en [contactarnos](mailto: info@tau.com.ar) por cualquier consulta.
+No dude en [contactarnos](https://tau.com.ar/contacto/) por cualquier consulta.
