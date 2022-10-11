@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Introducción a los contenedores"
+title:  "Introducción a los Contenedores"
 date:   2022-10-06 11:07:32 -0300
 categories: general
 ---
-# ¿Qué son los contenedores?
+# ¿Qué son los Contenedores?
 Los contenedores son unidades ejecutables de software donde se empaqueta el código de aplicación, junto con sus bibliotecas y dependencias. Esto permite que se puedan ejecutar en cualquier lugar, ya sea en el escritorio, en infraestructura tradicional o en la nube.
 
 Se aprovechan de una forma de virtualización del kernel Linux en la que ciertas características del sistema operativo se utilizan para aislar procesos y controlar la cantidad de CPU, memoria y disco a los que estos procesos tienen acceso.
