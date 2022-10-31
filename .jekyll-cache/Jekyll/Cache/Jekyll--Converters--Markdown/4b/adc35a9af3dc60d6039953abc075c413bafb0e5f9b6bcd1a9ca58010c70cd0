@@ -1,4 +1,4 @@
-I"Y<h1 id="orquestando-contenedores">Orquestando Contenedores</h1>
+I"^<h1 id="orquestando-contenedores">Orquestando Contenedores</h1>
 
 <p>A medida que las empresas empezaron a adoptar el uso de contenedores (a menudo como parte de arquitecturas modernas y nativas en cloud), la simplicidad del contenedor individual comenzó a chocar con la complejidad de gestionar cientos (incluso miles) de contenedores en un sistema distribuido.</p>
 
@@ -50,5 +50,5 @@ La API es la interfaz que se utiliza para gestionar, crear y configurar los clú
 
 <p>Por ejemplo, durante los períodos ajetreados, el estado deseado de la aplicación puede aumentar a diez réplicas, en lugar de las tres habituales.</p>
 
-<p>En Tau contamos con años de experiencia trabajando con Kubernetes y microservicios en general. <a href="mailto: info@tau.com.ar">Contáctenos</a> para conocer cEómo podemos ayudarlo a aprovechar los numerosos beneficios de esta tecnología.</p>
+<p>En Tau contamos con años de experiencia trabajando con Kubernetes y microservicios en general. <a href="https://tau.com.ar/contacto/">Contáctenos</a> para conocer cEómo podemos ayudarlo a aprovechar los numerosos beneficios de esta tecnología.</p>
 :ET
