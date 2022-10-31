@@ -14,4 +14,4 @@ Desarrollamos sitios para empresas, negocios y personas. También le ofrecemos c
 
 ![stack](assets/img/stack.png)
 
-Es nuestro objetivo facilitar el acceso a las nuevas herramientas web. Desde marcar presencia en Internet hasta abrir canales de interacción nuevos con sus clientes. Nuestro personal especializado se encargará de todos los despliegues,aspectos técnicos y mantenimiento. Obtenga en todo momento asistencia y soporte.
+Es nuestro objetivo facilitar el acceso a las nuevas herramientas web. Desde marcar presencia en Internet hasta abrir canales de interacción nuevos con sus clientes. Nuestro personal especializado se encargará de todos los despliegues,aspectos técnicos y mantenimiento. Obtenga en todo momento asistencia y soporte. 
